@@ -1,5 +1,5 @@
 name,color
-NEWSfeed,#FF6600
+NEWSfeed,#704F2D
 [freemail],#378ACA
 Investor,#155092
 Köpönyeg,#8DC942
@@ -8,14 +8,14 @@ Menetrendek,#0070FF
 Origo,#155092
 reblog,#FA2F61
 SHE,#EC1B48
-Unikornis,#F84C08
+Unikornis,#FF69B4
 Üzletrész,#155092
 Videa,#E61031
 VS,#E06062
 WeLoveBalaton,#EB2227
 WeLoveBudapest,#EB2227
-direct,#FFFFFF
-bought,#FFFFFF
-social,#FFFFFF
-search,#FFFFFF
-other,#FFFFFF
+direct,#000000
+bought,#FF0000
+social,#560878
+search,#FBB002
+other,#F0F0F0
